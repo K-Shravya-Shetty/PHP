@@ -13,6 +13,11 @@
         //this is a comment
         /*this is 
         a multiline commemt*/
+        $variable1=79;
+        $variable2=90;
+        echo $variable1;
+        echo $variable2;
+        echo $variable1+$variable2;
         ?>
     </div>
 </body>
