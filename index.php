@@ -84,6 +84,28 @@
         $myvar= (false || false);
         echo var_dump($myvar);
         echo "<br>";
+        /*similarly the xor and not operators are possible to be used in the similar way*/
+        //data types in php
+        echo "<br>datatypes<br>";
+        //string
+        $var ="this is a string";
+        echo var_dump($var);
+        echo "<br>";
+        //integer
+        $var1 =72;
+        echo var_dump($var1);
+        //float
+        echo "<br>";
+        $var =75.5;
+        echo var_dump($var);
+        echo "<br>";
+        //boolean
+        $var =true;
+        echo var_dump($var);
+        echo "<br>";
+        //array
+        //object
+
         ?>
     </div>
 </body>
