@@ -33,7 +33,42 @@ else if($age==17){
 else{
     echo "you can not vote";
 }
+$languages=array("python","c++","php");
+echo $languages[0];
+echo count($languages);
+//loops in php
+$a=5;
+while ($a <=10){
+    echo "<br>the value of a is ";
+    echo $a;
+    $a++;
+}
+$a = 0;
+    while ($a < count($languages)) {
+        echo "<br>The value of language is: ";
+        echo $languages[$a];
+        $a++;
+    }
+     // Do while loop
+$a = 200;
+    do {
+        echo "<br>The value of a is: ";
+        echo $a;
+        $a++;
+    } while ($a < 10);
+
+     // For loop
+    for ($a=5; $a <10; $a++) { 
+        echo "<br>The value of a from the for loop is: ";
+        echo $a;
+    }
+
+    foreach ($languages as $value) {
+        echo "<br>The value from foreach loop is ";
+        echo $value;
+    }
 ?>
+
     </div>
 </body>
 </html>
