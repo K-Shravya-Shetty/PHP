@@ -67,6 +67,15 @@ $a = 200;
         echo "<br>The value from foreach loop is ";
         echo $value;
     }
+    function print5(){
+        echo "<br>FIVE";
+    }
+    print5();
+    function print_num($number){
+        echo "<br>your number";
+        echo $number;
+    }
+    print_num(45);
 ?>
 
     </div>
