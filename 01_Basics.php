@@ -22,6 +22,7 @@
         echo $variable1+$variable2;
         ?>
         <?php
+        define('PI',3.14);//constat value
         //operators in PHP
         // Arithmetic operators
         echo "the value of the variable1 + variable2 is";
@@ -105,7 +106,7 @@
         echo "<br>";
         //array
         //object
-
+        echo PI;
         ?>
     </div>
 </body>
