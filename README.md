@@ -23,6 +23,12 @@ The PHP file (`index.php`) covers the following topics:
 - Arithmetic, assignment, comparison, increment/decrement, and logical operators
 - Data types in PHP
 - Constant usage with a defined value (`PI`)
+- Conditional statements (`if`, `else if`, `else`)
+- Introduction to arrays in PHP
+- Different types of loops (`while`, `do while`, `for`, `foreach`)
+- Basic functions in PHP
+- String manipulation functions (`strlen`, `str_word_count`, `strrev`, `strpos`, `str_replace`)
+
 
 PHP Concepts Covered
 - Basic PHP syntax
@@ -31,6 +37,11 @@ PHP Concepts Covered
 - Various operators in PHP (arithmetic, assignment, comparison, increment/decrement, logical)
 - Introduction to data types in PHP
 - Usage of constants in PHP
+- Usage of conditional statements for decision-making
+- Introduction to arrays and their basic operations
+- Different types of loops for iterative tasks
+- Creating and using basic functions in PHP
+- String manipulation functions for working with text data
 - Feel free to experiment with the code, modify it, and use it as a learning resource.
 
 
