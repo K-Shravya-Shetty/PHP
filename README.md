@@ -25,12 +25,12 @@ The PHP file (`index.php`) covers the following topics:
 - Constant usage with a defined value (`PI`)
 
 PHP Concepts Covered
-Basic PHP syntax
-Outputting content with echo
-Working with variables
-Various operators in PHP (arithmetic, assignment, comparison, increment/decrement, logical)
-Introduction to data types in PHP
-Usage of constants in PHP
-Feel free to experiment with the code, modify it, and use it as a learning resource.
+- Basic PHP syntax
+- Outputting content with echo
+- Working with variables
+- Various operators in PHP (arithmetic, assignment, comparison, increment/decrement, logical)
+- Introduction to data types in PHP
+- Usage of constants in PHP
+- Feel free to experiment with the code, modify it, and use it as a learning resource.
 
 
